@@ -1,0 +1,18 @@
+.account{
+    width: 100vw;
+    height: 100vh;
+    background-color: #282828;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .form-wrap{
+        width: 280px;
+        color: #FFF;
+        margin:300px auto 0;
+    }
+    label{
+        display: block;
+        font-size: 14px;
+        color: #FFF;
+    }
+}
